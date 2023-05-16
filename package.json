@@ -1,0 +1,17 @@
+{
+  "name": "connectnode",
+  "version": "1.0.0",
+  "description": "Node connection code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5",
+    "inquirer": "^8.2.4"
+  }
+}
