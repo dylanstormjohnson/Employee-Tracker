@@ -207,8 +207,8 @@ const addEmployee = async () => {
             break;
         }
     }
-    console.log(managerOption)
-    console.log(roleID)
+    // console.log(managerOption)
+    // console.log(roleID)
 
     switch (managerOption) {
         case 1 : 
