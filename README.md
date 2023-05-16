@@ -69,11 +69,7 @@ A website to track your employees!
 
 ## Tests
 
-- N/A
-
-- N/A
-
-- N/a
+- There are no tests available for this project.
 
 ## Questions
 
