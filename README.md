@@ -24,7 +24,7 @@ A website to track your employees!
 
 ## Usage
 
--This project is intended to be used as an easily manipulatable database of employees.
+- This project is intended to be used as an easily manipulatable database of employees.
 
 - Here is a video showcasing the functionality of the completed project:
 [Showcase video:](https://drive.google.com/file/d/1Trub238ps5hYEd4z5TFsLDfTOO-SBH03/view)
@@ -57,7 +57,7 @@ A website to track your employees!
 
 - When the "Add Employee" option is selected, more prompts are given about the new employee and the employee is logged in the database.
 
-- When the "Inquire About Departments" option is selected, another prompt about which department to inquire about is given and the user input is displayed iand formatted in an easily readable way.
+- When the "Inquire About Departments" option is selected, another prompt about which department to inquire about is given and the user input is displayed and formatted in an easily readable way.
 
 - When any action is completed, the initial prompt is given again to allow for quick traversal of the information.
 
@@ -65,7 +65,7 @@ A website to track your employees!
 
 - This project has reached completion and no further help is necessary.  If you would like to expand on the idea, you are welcome to download a fork of the repository and work on your own version.
 
--Aside from the aforementioned ways you can contribute, the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard for contribution policy.  (Please use the above guidelines for contribution and consult the Contributor Covenant on things not specified.)
+- Aside from the aforementioned ways you can contribute, the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard for contribution policy.  (Please use the above guidelines for contribution and consult the Contributor Covenant on things not specified.)
 
 ## Tests
 
@@ -77,5 +77,5 @@ A website to track your employees!
 
 ## Questions
 
--If you have any questions regarding this or my other projects, my GitHub account is [Dylan's GitHub account] (https://github.com/dylanstormjohnson).
+- If you have any questions regarding this or my other projects, my GitHub account is [Dylan's GitHub account] (https://github.com/dylanstormjohnson).
 ---
